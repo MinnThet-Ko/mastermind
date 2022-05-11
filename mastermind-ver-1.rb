@@ -1,6 +1,7 @@
 =begin
-Project: Mastermind
-Objectives: Implement the Mastermind game logic.
+Project: Mastermind(Player guesses the code.)
+Objectives: Implement the Mastermind game logic where the player guesses the code and the computer
+            gives hints.
 
 Necessities:
 1. split() to split the input string.
