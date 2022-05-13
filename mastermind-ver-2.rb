@@ -47,6 +47,7 @@ def swap_code(guessed_code, y_indexes)
     end
     return guessed_code
 end
+
 #ask the user to give code
 puts 'Enter a code with numbers between 1-6 and contains no duplicates.'
 given_code = gets.chomp.split('')
